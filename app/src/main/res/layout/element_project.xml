@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/prjctbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:background="#c0c0c0"
+            android:drawableLeft="@drawable/icons8_health_80__1_"
+            android:text="Button" />
+
+    <!-- Replace @drawable/ic_icon with your icon resource -->
+    </RelativeLayout>

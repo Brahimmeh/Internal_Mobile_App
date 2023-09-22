@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514214543469",
+    "project_id": "mamda-taskmanagement",
+    "storage_bucket": "mamda-taskmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514214543469:android:82ebccbc8c55f7ebde3f64",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgBdWlATvEvkNl7Ukc1LyoA0HktS-YcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mamda-Interne</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Se Déconnecter</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_project">Projets</string>
+    <string name="menu_profil">Utilisateur</string>
+    <string name="menu_task">Taches</string>
+    <string name="vie">Vie</string>
+    <string name="non_vie">Non Vie</string>
+    <string name="maladie">Maladie</string>
+    <string name="transport">Transport</string>
+    <string name="membres">Membres</string>
+    <string name="taches">Taches</string>
+
+    <string-array name="project_type">
+        <item>Vie</item>
+        <item>Non Vie</item>
+        <item>Maladie</item>
+        <item>Transport</item>
+    </string-array>
+
+</resources>
